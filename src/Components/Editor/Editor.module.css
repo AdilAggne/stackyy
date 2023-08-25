@@ -1,0 +1,11 @@
+.editor {
+  width: 100%;
+  height: 100%;
+}
+
+.btn {
+  padding: 1%;
+  border-radius: 8px;
+  background-color: skyblue;
+  font-weight: 600;
+}
